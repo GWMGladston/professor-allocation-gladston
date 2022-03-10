@@ -1,6 +1,5 @@
 package com.project.professor.allocation.controller;
 
-import com.project.professor.allocation.entity.Department;
 import com.project.professor.allocation.entity.Questao;
 import com.project.professor.allocation.service.DepartmentService;
 import com.project.professor.allocation.service.QuestaotService;
