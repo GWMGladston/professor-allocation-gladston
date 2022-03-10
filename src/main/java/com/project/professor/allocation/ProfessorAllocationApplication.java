@@ -10,6 +10,7 @@ public class ProfessorAllocationApplication {
         SpringApplication.run(ProfessorAllocationApplication.class, args);
         
         //testando comit
+        //teste de repositório
     }
 
 }
