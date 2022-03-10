@@ -1,15 +1,9 @@
 package com.project.professor.allocation.service;
 
-import com.project.professor.allocation.entity.Department;
-import com.project.professor.allocation.entity.Professor;
-import com.project.professor.allocation.entity.Questao;
-import com.project.professor.allocation.repository.DepartmentRepository;
-import com.project.professor.allocation.repository.ProfessorRepository;
-import com.project.professor.allocation.repository.QuestaotRepository;
-
 import org.springframework.stereotype.Service;
 
-import java.util.List;
+import com.project.professor.allocation.entity.Questao;
+import com.project.professor.allocation.repository.QuestaotRepository;
 
 @Service
 public class QuestaotService {
